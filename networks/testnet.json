@@ -1,14 +1,14 @@
 {
-  "title": "TARK Explorer",
-  "server": "http://127.0.0.1:4003/api/v2",
+  "title": "payresto Testnet Explorer",
+  "server": "http://134.209.233.169:4003/api/v2",
   "alias": "Testnet local",
-  "activeDelegates": 51,
-  "rewardOffset": 75600,
+  "activeDelegates": "21",
+  "rewardOffset": "1",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "TARK",
-    "symbol": "TѦ",
+    "token": "Euro",
+    "symbol": "€",
     "currency": null,
     "priceChart": false
   }

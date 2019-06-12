@@ -1,14 +1,14 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api/v2",
+  "title": "payresto Devnet Explorer",
+  "server": "http://134.209.233.169:4003/api/v2",
   "alias": "Development",
-  "activeDelegates": 51,
-  "rewardOffset": 10800,
+  "activeDelegates": "21",
+  "rewardOffset": "1",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "Euro",
+    "symbol": "€",
     "currency": null,
     "priceChart": false
   }
